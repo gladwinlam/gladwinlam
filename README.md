@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Gladwin who is currently pursuing Masters in Information Technology Business in Analytics in Singapore Management Univeristy.
+
+
+
+
+
 <!--
 **gladwinlam/gladwinlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
